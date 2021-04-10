@@ -1,4 +1,4 @@
-package lesson01;
+package chapter002.lesson01;
 /* Это простая программа на Java.
 Присвоить исходному файлу имя "Example.java"
  */
