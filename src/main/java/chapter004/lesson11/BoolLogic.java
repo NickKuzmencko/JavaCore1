@@ -1,4 +1,4 @@
-package chapter004.lesson11;
+package chapter004.lesson11;// продемонстрировать применение логических операций
 
 public class BoolLogic {
     public static void main(String[] args){
