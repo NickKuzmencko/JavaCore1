@@ -1,7 +1,7 @@
 package chapter007.lesson04; //В данном примере конструкторы определяются в классе Вох для
 //инициализации размеров параллелепипеда тремя разными способами
 
-public class Box {
+ class Box {
     double width;
     double height;
     double depth;
