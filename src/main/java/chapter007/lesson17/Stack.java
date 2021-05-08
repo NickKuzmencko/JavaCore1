@@ -40,6 +40,6 @@ class TestStack2{
         System.out.println("Стек в mystack2:");
         for (int i=0;i<8;i++)
             System.out.println(mystack2.pop());
-        
+
     }
 }
